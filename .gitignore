@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Node / UI (later)
+node_modules/
+dist/
+
+# Secrets
+*.env
+*k8s/secrets/*.yaml
+appsettings.*.json
+
+# OS
+.DS_Store
+Thumbs.db

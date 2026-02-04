@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nawaa\\Desktop\\kubecart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Dockerfile.txt",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Dockerfile.txt",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-04T03:53:07.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Dockerfile.txt",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Dockerfile.txt",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-04T03:52:24.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: identity-config
+  namespace: demo
+data:
+  DB_HOST: "CHANGE_ME"
+  DB_NAME: "KubeCart_Identity"
+  DB_USER: "CHANGE_ME"
