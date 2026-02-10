@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\nawaa\\Desktop\\kubecart\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\identity\\src\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|solutionrelative:services\\identity\\src\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +19,88 @@
       "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\identity\\src\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|solutionrelative:services\\identity\\src\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\identity\\src\\identity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|solutionrelative:services\\identity\\src\\identity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\identity\\src\\identity.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|solutionrelative:services\\identity\\src\\identity.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\identity\\src\\identity.api\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE57448E-B3F4-41B9-A25A-F6EBB96FFEC1}|services\\identity\\src\\Identity.Api\\Identity.Api.csproj|solutionrelative:services\\identity\\src\\identity.api\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\models\\orderdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\models\\orderdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\data\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\data\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\models\\checkoutdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\models\\checkoutdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\models\\cartdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\models\\cartdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\orders\\src\\orders.api\\clients\\catalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B970C-E3AE-408C-AFA3-9CA25630C8AE}|services\\orders\\src\\Orders.Api\\Orders.Api.csproj|solutionrelative:services\\orders\\src\\orders.api\\clients\\catalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\models\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\models\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\models\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\models\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|c:\\users\\nawaa\\desktop\\kubecart\\services\\catalog\\src\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7575344A-BFE1-4AB5-AC68-6E509FF90065}|services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\src\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +110,339 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Program.cs",
-              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Program.cs*",
-              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T03:43:53.849Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Program.cs",
               "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Program.cs",
               "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Program.cs",
               "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T03:43:31.06Z",
+              "WhenOpened": "2026-02-08T20:47:45.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Program.cs",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Program.cs",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:05:36.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\identity\\src\\Identity.Api\\Program.cs",
               "RelativeDocumentMoniker": "services\\identity\\src\\Identity.Api\\Program.cs",
               "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\identity\\src\\Identity.Api\\Program.cs",
               "RelativeToolTip": "services\\identity\\src\\Identity.Api\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T03:40:50.815Z",
+              "WhenOpened": "2026-02-10T08:46:45.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-08T21:01:04.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAuwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:11:23.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\identity\\src\\Identity.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "services\\identity\\src\\Identity.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\identity\\src\\Identity.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "services\\identity\\src\\Identity.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T08:46:28.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T08:08:22.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\identity\\src\\Identity.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "services\\identity\\src\\Identity.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\identity\\src\\Identity.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "services\\identity\\src\\Identity.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:50:32.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\identity\\src\\Identity.Api\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "services\\identity\\src\\Identity.Api\\Auth\\TokenService.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\identity\\src\\Identity.Api\\Auth\\TokenService.cs",
+              "RelativeToolTip": "services\\identity\\src\\Identity.Api\\Auth\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:49:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\appsettings.json",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T08:08:18.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\appsettings.json",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T08:08:05.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDtos.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Models\\OrderDtos.cs",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Models\\OrderDtos.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Models\\OrderDtos.cs",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Models\\OrderDtos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T07:45:33.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Data\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Data\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:09:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Data\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Data\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Data\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Data\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:09:29.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Data\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Data\\DapperContext.cs",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:39:13.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckoutDtos.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Models\\CheckoutDtos.cs",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Models\\CheckoutDtos.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Models\\CheckoutDtos.cs",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Models\\CheckoutDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:08:38.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartDtos.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Models\\CartDtos.cs",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Models\\CartDtos.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Models\\CartDtos.cs",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Models\\CartDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:08:12.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CatalogClient.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Clients\\CatalogClient.cs",
+              "RelativeDocumentMoniker": "services\\orders\\src\\Orders.Api\\Clients\\CatalogClient.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\orders\\src\\Orders.Api\\Clients\\CatalogClient.cs",
+              "RelativeToolTip": "services\\orders\\src\\Orders.Api\\Clients\\CatalogClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:04:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:49:17.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:47:22.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:46:52.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Models\\ProductDetailDto.cs",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Models\\ProductDetailDto.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Models\\ProductDetailDto.cs",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Models\\ProductDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:45:34.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductListDto.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Models\\ProductListDto.cs",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Models\\ProductListDto.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Models\\ProductListDto.cs",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Models\\ProductListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:45:05.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Models\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Models\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Models\\CategoryDto.cs",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Models\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:44:27.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Catalog.Api",
+              "DocumentMoniker": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj",
+              "RelativeDocumentMoniker": "services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj",
+              "ToolTip": "C:\\Users\\nawaa\\Desktop\\kubecart\\services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj",
+              "RelativeToolTip": "services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-08T20:43:46.344Z",
               "EditorCaption": ""
             }
           ]
