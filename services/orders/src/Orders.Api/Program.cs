@@ -1,12 +1,13 @@
 using Dapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
 using Orders.Api.Clients;
 using Orders.Api.Config;
 using Orders.Api.Data;
 using Orders.Api.Data.Repositories;
+using System.Security.Claims;
 using System.Text;
-using Microsoft.OpenApi.Models;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -82,6 +83,7 @@ builder.Services
         options.SaveToken = true;
         options.TokenValidationParameters = new TokenValidationParameters
         {
+            
             ValidateIssuer = false,
             ValidateAudience = false,
             ValidateIssuerSigningKey = true,

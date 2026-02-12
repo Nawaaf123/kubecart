@@ -1,15 +1,15 @@
-using Catalog.Api.Config;
+﻿using Catalog.Api.Config;
 using Catalog.Api.Data;
 using Catalog.Api.Data.Repositories;
 using Dapper;
-using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
 using System.Text;
-
 
 var builder = WebApplication.CreateBuilder(args);
 
+// -------------------- JWT --------------------
 var jwtKey = Env.Require("JWT_SIGNING_KEY");
 var keyBytes = Encoding.UTF8.GetBytes(jwtKey);
 
@@ -26,23 +26,20 @@ builder.Services
             ValidateIssuerSigningKey = true,
             IssuerSigningKey = new SymmetricSecurityKey(keyBytes),
             ValidateLifetime = true,
-            ClockSkew = TimeSpan.FromSeconds(30)
+            ClockSkew = TimeSpan.FromSeconds(30),
+
+            RoleClaimType = "http://schemas.microsoft.com/ws/2008/06/identity/claims/role",
         };
     });
 
 builder.Services.AddAuthorization();
 
-
+// -------------------- MVC + Swagger --------------------
 builder.Services.AddControllers();
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo
-    {
-        Title = "Catalog API",
-        Version = "v1"
-    });
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Catalog API", Version = "v1" });
 
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
@@ -59,21 +56,14 @@ builder.Services.AddSwaggerGen(c =>
         {
             new OpenApiSecurityScheme
             {
-                Reference = new OpenApiReference
-                {
-                    Type = ReferenceType.SecurityScheme,
-                    Id = "Bearer"
-                }
+                Reference = new OpenApiReference { Type = ReferenceType.SecurityScheme, Id = "Bearer" }
             },
             Array.Empty<string>()
         }
     });
 });
 
-builder.Services.AddScoped<CategoryRepository>();
-builder.Services.AddScoped<ProductRepository>();
-
-
+// -------------------- DB --------------------
 builder.Services.AddSingleton(new DbOptions
 {
     Host = Env.Require("DB_HOST"),
@@ -83,11 +73,30 @@ builder.Services.AddSingleton(new DbOptions
 });
 builder.Services.AddSingleton<DapperContext>();
 
+// -------------------- Repositories --------------------
+builder.Services.AddScoped<CategoryRepository>();
+builder.Services.AddScoped<ProductRepository>();
+
 var app = builder.Build();
 
+// -------------------- Middleware (ORDER MATTERS) --------------------
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
 app.UseHttpsRedirection();
-app.UseAuthorization();
-app.UseAuthentication();
+
+app.UseAuthentication();   // ✅ FIRST
+app.UseAuthorization();    // ✅ THEN
+
+// -------------------- Debug + Health --------------------
+app.MapGet("/debug/jwt", () =>
+{
+    var k = Environment.GetEnvironmentVariable("JWT_SIGNING_KEY");
+    return Results.Ok(new { hasKey = !string.IsNullOrWhiteSpace(k), len = k?.Length ?? 0 });
+});
 
 app.MapGet("/health/live", () => Results.Ok(new { status = "live" }));
 
@@ -106,17 +115,6 @@ app.MapGet("/health/ready", async (DapperContext db) =>
 });
 
 app.MapGet("/api/catalog/ping", () => Results.Ok(new { service = "catalog", ok = true }));
-
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
-app.UseAuthentication();
-app.UseAuthorization();
-
-app.MapControllers();
 
 app.MapControllers();
 app.Run();

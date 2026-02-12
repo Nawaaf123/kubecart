@@ -113,6 +113,13 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.MapGet("/debug/jwt", () =>
+{
+    var k = Environment.GetEnvironmentVariable("JWT_SIGNING_KEY");
+    return Results.Ok(new { hasKey = !string.IsNullOrWhiteSpace(k), len = k?.Length ?? 0 });
+});
+
+
 // -------------------- Health --------------------
 app.MapGet("/health/live", () => Results.Ok(new { status = "live" }));
 

@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, Arial; }
+a { color: #6a1b9a; text-decoration: underline; }
+button { cursor: pointer; }
+input { padding: 6px; }

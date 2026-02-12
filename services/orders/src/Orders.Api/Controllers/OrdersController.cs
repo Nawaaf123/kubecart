@@ -26,11 +26,20 @@ public sealed class OrdersController : ControllerBase
     // Read userId from JWT "sub"
     private Guid GetUserId()
     {
-        var sub = User.FindFirstValue(JwtRegisteredClaimNames.Sub);
+        // Try common places the subject might end up
+        var sub =
+            User.FindFirstValue(JwtRegisteredClaimNames.Sub) ??
+            User.FindFirstValue("sub") ??
+            User.FindFirstValue(ClaimTypes.NameIdentifier) ??
+            User.FindFirstValue("nameid");
+
         if (string.IsNullOrWhiteSpace(sub))
             throw new UnauthorizedAccessException("Missing sub claim in token.");
 
-        return Guid.Parse(sub);
+        if (!Guid.TryParse(sub, out var userId))
+            throw new UnauthorizedAccessException("Invalid sub claim in token.");
+
+        return userId;
     }
 
     // -------------------- Order History --------------------

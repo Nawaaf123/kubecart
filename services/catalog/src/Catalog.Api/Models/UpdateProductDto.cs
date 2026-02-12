@@ -1,8 +1,8 @@
 ﻿namespace Catalog.Api.Models;
 
-public sealed class CreateProductDto
+public sealed class UpdateProductDto
 {
-    public int CategoryId { get; set; }          // ✅ int (matches DB)
+    public int CategoryId { get; set; }
     public string Name { get; set; } = "";
     public string? Description { get; set; }
     public decimal Price { get; set; }

@@ -30,8 +30,9 @@ public sealed class CatalogController : ControllerBase
         [FromQuery] int? categoryId,
         [FromQuery] string? search)
     {
-        var result = await _products.SearchAsync(categoryId, search);
-        return Ok(result);
+        var products = await _products.SearchAsync(search, categoryId);
+     
+        return Ok(products);
     }
 
     [HttpGet("products/{id:guid}")]
