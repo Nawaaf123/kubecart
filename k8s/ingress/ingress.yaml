@@ -8,6 +8,14 @@ spec:
     - host: kubecart.local
       http:
         paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: ui-service
+                port:
+                  number: 80
+
           - path: /api/auth
             pathType: Prefix
             backend:
@@ -15,6 +23,7 @@ spec:
                 name: identity-service
                 port:
                   number: 80
+
           - path: /api/catalog
             pathType: Prefix
             backend:
@@ -22,6 +31,7 @@ spec:
                 name: catalog-service
                 port:
                   number: 80
+
           - path: /api/orders
             pathType: Prefix
             backend:

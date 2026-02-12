@@ -15,24 +15,22 @@ spec:
     spec:
       containers:
         - name: orders-api
-          image: orders-api:dev
+          image: kubecart-orders:local
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
-          livenessProbe:
-            httpGet:
-              path: /health/live
-              port: 8080
-            initialDelaySeconds: 10
-            periodSeconds: 10
-          readinessProbe:
-            httpGet:
-              path: /health/ready
-              port: 8080
-            initialDelaySeconds: 5
-            periodSeconds: 10
           envFrom:
             - configMapRef:
                 name: orders-config
             - secretRef:
                 name: orders-secrets
+          livenessProbe:
+            httpGet:
+              path: /health/live
+              port: 8080
+            initialDelaySeconds: 10
+          readinessProbe:
+            httpGet:
+              path: /health/ready
+              port: 8080
+            initialDelaySeconds: 10

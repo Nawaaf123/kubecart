@@ -4,9 +4,9 @@ metadata:
   name: identity-service
   namespace: demo
 spec:
-  type: ClusterIP
   selector:
     app: identity-api
   ports:
     - port: 80
       targetPort: 8080
+  type: ClusterIP

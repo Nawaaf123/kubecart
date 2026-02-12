@@ -15,10 +15,15 @@ spec:
     spec:
       containers:
         - name: identity-api
-          image: identity-api:dev
+          image: kubecart-identity:local
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
+          envFrom:
+            - configMapRef:
+                name: identity-config
+            - secretRef:
+                name: identity-secrets
           livenessProbe:
             httpGet:
               path: /health/live
@@ -29,10 +34,5 @@ spec:
             httpGet:
               path: /health/ready
               port: 8080
-            initialDelaySeconds: 5
+            initialDelaySeconds: 10
             periodSeconds: 10
-          envFrom:
-            - configMapRef:
-                name: identity-config
-            - secretRef:
-                name: identity-secrets
